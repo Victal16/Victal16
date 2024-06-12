@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Olá, eu sou Raphael Victal
+💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+🎓 Cursando [Engenharia de dados  / Awari] [Ciência de Dados e Analise de Comportamento  / Faculdade Unicessumar] [Programação em Python  /  Senac]
 
-<!--
-**Victal16/Victal16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 Linguagens de Programação
+PYTHON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Desenvolvimento front-end
+HTML
+CSS
+
+🗄️ Bancos de Dados:
+MYSQL
+
+📫 Contato
+Gmail: victaleventos@gmail.com
+
+
+Victal16 GitHub stats
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
