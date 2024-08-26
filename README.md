@@ -2,7 +2,7 @@
 💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 🎓 Cursando [Engenharia de dados  / Awari] [Ciência de Dados e Analise de Comportamento  / Faculdade Unicessumar] [Programação em Python  /  SenacRJ] [Informática Essencial  /  FUNDEC]
 
-Desenvolvir habilidades em Lógica de programação
+Desenvolvi habilidades em Lógica de programação
 projetos front-end e back-end utilizando HTML/CSS e JavaScript em desenvolvimento web.
 Conhecimento em SQL em manipulação de bancos de dados.
 competência na bibliotecas populares do Python, como Django para desenvolvimento web, e
