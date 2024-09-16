@@ -1,6 +1,6 @@
 👋 Olá, eu sou Raphael Victal
 💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
-🎓 Cursando [Engenharia de dados  / Awari] [Ciência de Dados e Analise de Comportamento  / Faculdade Unicessumar] [Programação em Python  /  SenacRJ] [Informática Essencial  /  FUNDEC]
+🎓 Cursando [Engenharia de dados  / Awari] [Análise e Desenvolvimento de Sistemas  / Faculdade Unicessumar] [Programação em Python  /  SenacRJ] [Informática Essencial  /  FUNDEC]
 
 Desenvolvi habilidades em Lógica de programação
 projetos front-end e back-end utilizando HTML/CSS e JavaScript em desenvolvimento web.
